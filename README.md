@@ -13,10 +13,15 @@ Additional parts list
 
 Filetypes:
 .scad -> Openscad
+
 .svg -> Inkscape
+
 .ino -> Arduino IDE
+
 .dxf -> Inkscape
+
 .stl -> Meshlab
+
 
 
 

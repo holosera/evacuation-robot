@@ -22,6 +22,10 @@ Filetypes:
 
 .stl -> Meshlab
 
+.brd -> Eagle
+
+.sch -> Eagle
+
 
 
 
